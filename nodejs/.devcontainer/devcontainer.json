@@ -19,13 +19,21 @@
 		// Jest
 		"valdas-ruzgys.nestjs-test-generator",
 		"andys8.jest-snippets",
-		// React
-		"dsznajder.es7-react-js-snippets",
-		"msjsdiag.vscode-react-native",
-		"vincaslt.highlight-matching-tag",
 		// Format
 		"esbenp.prettier-vscode",
 		"editorconfig.editorconfig",
+		"christian-kohler.path-intellisense",
+
+		// Angular
+		// "mikael.angular-beastcode",
+		// "marinhobrandao.angular2tests",
+		// "alexiv.vscode-angular2-files",
+
+		// React
+		// "dsznajder.es7-react-js-snippets",
+		// "msjsdiag.vscode-react-native",
+		// "vincaslt.highlight-matching-tag",
+		// "jpoissonnier.vscode-styled-components",
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
